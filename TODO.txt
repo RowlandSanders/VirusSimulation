@@ -1,10 +1,7 @@
 SIMULATION
-
 NOTES: We are doing this in python, but will experiment with java if we can not accomplish the same goals
-
 GOALS: 
 1) Create a simple simulation where a user can input data on a virus and the program will simulate it on countries
-
 TODO:
 1) Collect information a variety of first world countries and give them a score out of 1000, this will be determined by many variables that are widely available 
 2) Allow user to create a country to be tested
